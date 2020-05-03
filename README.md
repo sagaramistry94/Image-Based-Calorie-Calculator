@@ -1,5 +1,6 @@
 # Image Based Calorie Calculator
-This is a group project implemented by Anirudh Mundra, Shubham Munot and Me.
+
+This is a group project implemented by Myself, Anirudh Mundra and Shubham Munot.
 
 Considering “How many calories am I consuming in my meal?” as the real world
 problem, we have proposed a methodology “Image Based Calorie Calculator” of calculating
